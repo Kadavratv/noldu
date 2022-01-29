@@ -25,13 +25,13 @@
 ## Komutlar
 <br> • `/start` - Hesabın çalışıp çalışmadığını kontrol eder
 <br> • `/ping` - Ping'i kontrol et
-<br> • `/baslat` - Müzik çalmak için mp3 dosyasına yanıt verin. Durdurulan şarkıyı devam ettirmek için kullanın.
-<br> • `/sesekatil` - Userbot'u sesli sohbete davet eder
-<br> • `/sestenayril` - Sesli sohbetten userbot'u çıkarır
-<br> • `/beklet` - Sesli sohbette müzik çalmayı durdur.
+<br> • `/dinlet` - Müzik çalmak için mp3 dosyasına yanıt verin. Durdurulan şarkıyı devam ettirmek için kullanın.
+<br> • `/gel` - Userbot'u sesli sohbete davet eder
+<br> • `/git` - Sesli sohbetten userbot'u çıkarır
+<br> • `/izlet` - Sesli sohbette müzik çalmayı durdur.
 
 ## Session
 • Pyrogram Session almak için [buraya](https://t.me/StarkStringGenBot) tıklayın.
 
 ## Herokudan deploy edebilirsiniz.
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BirBeyfendi/magnetarvc)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kadavratv/noldu)
